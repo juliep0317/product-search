@@ -37,8 +37,7 @@ https://juliep0317.github.io/product-search/
 
 ## Screenshot
 
-
-
+![Product Search Screenshot](screenshot.jpg)
 
 ## Author
 
