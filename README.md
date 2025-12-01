@@ -32,7 +32,7 @@ A clean and responsive web page that allows users to search for products and vie
 
 ## Usage
 
-View Project on GitHub by clicking the copying the below link into your browser:
+View Project on GitHub by clicking the copying the following link into the browser:
 https://juliep0317.github.io/product-search/
 
 ## Screenshot
